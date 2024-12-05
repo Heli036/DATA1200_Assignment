@@ -34,7 +34,7 @@ Follow these steps to set up the project on your local machine:
 
 **Step 1: Clone the Repository**
 ```bash
-git clone https://github.com/Manav2304/drug-classification.git
+git clone https://github.com/Heli036/DATA1200_Assignment.git
 ```
 **Step 2: Navigate to the Project Directory**
 ```bash
@@ -42,7 +42,8 @@ cd drug-classification
 ```
 **Step 3: Launch Jupyter Notebook**
 ```bash
-jupyter notebook```
+jupyter notebook
+```
 
 ***Step 4: Open the Notebook***
 
