@@ -85,7 +85,7 @@ jupyter nbconvert --to script Drug_Classification.ipynb
 
 ## Authors
 
-- **Manav Patel** - Initial work - [GitHub Profile](https://github.com/Manav2304)
+- **Heli Patel** - 
 
 ---
 
