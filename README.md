@@ -85,7 +85,7 @@ jupyter nbconvert --to script Drug_Classification.ipynb
 
 ## Authors
 
-- **Heli Patel** - 
+- **Heli Patel** 
 
 ---
 
